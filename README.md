@@ -1,9 +1,14 @@
-[\_Printf Project by Aryton & Theodore](https://github.com/theotsori/printf)
+# Heading
+<h1 align"center">[\_Printf Project by Aryton & Theodore](https://github.com/theotsori/printf)</h1>
 
-#Participants Aryton Koskei, Theodore Tsori
+## <h2>Participants Aryton Koskei, Theodore Tsori</h2>
 
-#Requirements
-#General
+## <h2>Requirements</h2>
+
+### <h3>General</h3>
+
+---
+
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
@@ -16,9 +21,9 @@ The prototypes of all your functions should be included in your header file call
 Don’t forget to push your header file
 All your header files should be include guarded
 Note that we will not provide the _putchar function for this project
-#GitHub
+## GitHub
 There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
-#More Info
+## More Info
 Authorized functions and macros
 write (man 2 write)
 malloc (man 3 malloc)
