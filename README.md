@@ -1,5 +1,5 @@
 # Heading
-<h1 align"center">[\_Printf Project by Aryton & Theodore](https://github.com/theotsori/printf)</h1>
+<h1 align"center">_Printf Project by Aryton & Theodore</h1>
 
 ## <h2>Participants Aryton Koskei, Theodore Tsori</h2>
 
@@ -24,7 +24,7 @@ Note that we will not provide the _putchar function for this project
 ## GitHub
 There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
 ## More Info
-Authorized functions and macros
+### Authorized functions and macros
 write (man 2 write)
 malloc (man 3 malloc)
 free (man 3 free)
