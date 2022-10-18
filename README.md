@@ -1,4 +1,5 @@
-#0x11.c_printf project
+[\_Printf Project by Aryton & Theodore](https://github.com/theotsori/printf)
+
 #Participants Aryton Koskei, Theodore Tsori
 
 #Requirements
