@@ -1,3 +1,9 @@
+/*
+ * File: _getprint.c
+ * Auth: Theodore Tsori
+ *       Aryton Koskei
+ */
+
 #include "main.h"
 
 /**
