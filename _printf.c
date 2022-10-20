@@ -1,3 +1,8 @@
+/*
+ * File: _printf.c
+ * Auth: Theodore Tsori
+ *       Aryton Koskei
+ */
 #include "main.h"
 
 /**
