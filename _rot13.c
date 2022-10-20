@@ -1,3 +1,9 @@
+/*
+ * File: _rot13.c
+ * Auth: Theodore Tsori
+ *       Aryton Koskei
+ */
+
 #include "main.h"
 
 /**
